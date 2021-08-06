@@ -1,0 +1,219 @@
+<empresas>
+  <empresa>
+    <nroContrato>1</nroContrato>
+    <cuit>111111111111</cuit>
+    <denominacion>Prueba 1</denominacion>
+    <domicilio>ILDEFONSO MUÑECAS 167 - B° CENTRO</domicilio>
+    <codigoPostal>4000</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>2271</organizador>
+    <productor>26672</productor>
+    <ciiu>623016</ciiu>
+    <movimientos>
+      <movimiento>
+	    <saldoCtaCte>-21802.12</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>21802.19</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>2</nroContrato>
+    <cuit>22222222222</cuit>
+    <denominacion>Prueba 2</denominacion>
+    <domicilio>FINCA SAN JOSE (RTA. </domicilio>
+    <codigoPostal>4427</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>2271</organizador>
+    <productor>26672</productor>
+    <ciiu>612030</ciiu>
+    <movimientos>
+      <movimiento>
+	   <saldoCtaCte>-46791.12</saldoCtaCte>
+       <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>46739.28</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>3</nroContrato>
+    <cuit>3333333333333</cuit>
+    <denominacion>Prueba 3</denominacion>
+    <domicilio>DOMINGO F SARMIENTO 30</domicilio>
+    <codigoPostal>7000</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51471</organizador>
+    <productor>14383</productor>
+    <ciiu>832448</ciiu>
+    <movimientos>
+       <movimiento>
+	    <saldoCtaCte>-25665.90</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>25665.97</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>4</nroContrato>
+    <cuit>444444444</cuit>
+    <denominacion>Prueba 4</denominacion>
+    <domicilio>BLANDENGUES 443 - B° CENTRO</domicilio>
+    <codigoPostal>8000</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51471</organizador>
+    <productor>14224</productor>
+    <ciiu>618039</ciiu>
+    <movimientos>
+      <movimiento>
+        <saldoCtaCte>-12410.67</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>12305.41</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>5</nroContrato>
+    <cuit>55555555555</cuit>
+    <denominacion>Prueba 5</denominacion>
+    <domicilio>DR L DE LA TORRE 897 - B° PERALTA RAMOS OESTE</domicilio>
+    <codigoPostal>7600</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51471</organizador>
+    <productor>14224</productor>
+    <ciiu>624101</ciiu>
+    <movimientos>
+      <movimiento>
+	    <saldoCtaCte>1663.86</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>2395.25</importe>
+      </movimiento>
+	  <movimiento>
+	    <saldoCtaCte>-731.39</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Debito</concepto>
+        <importe>740.00</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>6</nroContrato>
+    <cuit>66666666666</cuit>
+    <denominacion>Prueba 6</denominacion>
+    <domicilio>GRAL MITRE 790 - B° SAN NICOLAS</domicilio>
+    <codigoPostal>1036</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51407</organizador>
+    <productor>13449</productor>
+    <ciiu>719110</ciiu>
+    <movimientos>
+       <movimiento>
+	    <saldoCtaCte>-45268.60</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>45268.60</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>7</nroContrato>
+    <cuit>77777777777</cuit>
+    <denominacion>Prueba 7</denominacion>
+    <domicilio>AV B RIVADAVIA 755 - B° SAN NICOLAS</domicilio>
+    <codigoPostal>1002</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51407</organizador>
+    <productor>13449</productor>
+    <ciiu>832529</ciiu>
+    <movimientos>
+       <movimiento>
+	    <saldoCtaCte>0.05</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>3835.96</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>8</nroContrato>
+    <cuit>88888888888</cuit>
+    <denominacion>Prueba 8</denominacion>
+    <domicilio>AU LA PLATA - BUENOS AIRES KM 9 - Dpto. 1019</domicilio>
+    <codigoPostal>1872</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51407</organizador>
+    <productor>13128</productor>
+    <ciiu>624349</ciiu>
+    <movimientos>
+      <movimiento>
+	    <saldoCtaCte>-2854.09</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>3105.25</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>9</nroContrato>
+    <cuit>999999999999999999</cuit>
+    <denominacion>Prueba 9</denominacion>
+    <domicilio>USPALLATA 2664 - B° PARQUE PATRICIOS</domicilio>
+    <codigoPostal>1437</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51407</organizador>
+    <productor>13449</productor>
+    <ciiu>953016</ciiu>
+    <movimientos>
+       <movimiento>
+	    <saldoCtaCte>-414.46</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>573.23</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+  <empresa>
+    <nroContrato>10</nroContrato>
+    <cuit>101010101010</cuit>
+    <denominacion>Prueba 10</denominacion>
+    <domicilio>REPUBLICA ARGENTINA 2029 - B° VILLA SPINOLA</domicilio>
+    <codigoPostal>1822</codigoPostal>
+    <fechaDesdeNov>2021-01-13T00:00:00</fechaDesdeNov>
+    <fechaHastaNov>2021-01-14T00:00:00</fechaHastaNov>
+    <organizador>51407</organizador>
+    <productor>13449</productor>
+    <ciiu>312193</ciiu>
+    <movimientos>
+      <movimiento>     
+	    <saldoCtaCte>-182510.40</saldoCtaCte>
+        <tipo>C</tipo>
+        <codigoMovimiento>1</codigoMovimiento>
+        <concepto>Pago</concepto>
+        <importe>184528.35</importe>
+      </movimiento>
+    </movimientos>
+  </empresa>
+</empresas>
